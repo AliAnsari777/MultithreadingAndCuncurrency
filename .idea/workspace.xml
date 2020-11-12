@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd8116aa-489c-41db-99be-0e60630e6dba" name="Default Changelist" comment="" />
+    <list default="true" id="dd8116aa-489c-41db-99be-0e60630e6dba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k5ItnRZWdGhRJeayfHChSNXTQX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604984242611</updated>
-      <workItem from="1604984244351" duration="1455000" />
+      <workItem from="1604984244351" duration="2518000" />
     </task>
     <servers />
   </component>
@@ -73,25 +79,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="724" height="231" key="GridCell.Tab.0.bottom" timestamp="1604985832185">
+    <state width="724" height="231" key="GridCell.Tab.0.bottom" timestamp="1605048306850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604985832185" />
-    <state width="724" height="231" key="GridCell.Tab.0.center" timestamp="1604985832184">
+    <state width="724" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605048306850" />
+    <state width="724" height="231" key="GridCell.Tab.0.center" timestamp="1605048306826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604985832184" />
-    <state width="724" height="231" key="GridCell.Tab.0.left" timestamp="1604985832184">
+    <state width="724" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605048306826" />
+    <state width="724" height="231" key="GridCell.Tab.0.left" timestamp="1605048306769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604985832184" />
-    <state width="724" height="231" key="GridCell.Tab.0.right" timestamp="1604985832185">
+    <state width="724" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605048306769" />
+    <state width="724" height="231" key="GridCell.Tab.0.right" timestamp="1605048306827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604985832185" />
+    <state width="724" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605048306827" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1604985442445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604985442445" />
+    <state x="88" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1605163316362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="88" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605163316362" />
   </component>
 </project>
