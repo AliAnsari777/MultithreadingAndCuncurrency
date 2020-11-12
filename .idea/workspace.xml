@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd8116aa-489c-41db-99be-0e60630e6dba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadLifeCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.two">
+  <component name="RunManager" selected="Application.ThreadLifeCycle">
+    <configuration name="ThreadLifeCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadLifeCycle" />
+      <module name="Multithreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one" />
       <module name="Multithreading" />
@@ -54,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLifeCycle" />
         <item itemvalue="Application.two" />
         <item itemvalue="Application.one" />
       </list>
@@ -82,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604984242611</updated>
       <workItem from="1604984244351" duration="2518000" />
-      <workItem from="1605163316460" duration="1389000" />
+      <workItem from="1605163316460" duration="2237000" />
     </task>
     <servers />
   </component>
