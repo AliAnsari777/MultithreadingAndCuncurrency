@@ -1,2 +1,2 @@
 # MultithreadingAndCuncurrency
-This repository has examples for multithreading and concurency programming in java
+This repository has examples for multithreading and concurrency programming in java
