@@ -15,7 +15,7 @@ class vegetable extends Thread{
     }
 }
 
-public class two {
+public class SchedulingThread {
     public static void main(String[] args) throws InterruptedException {
         vegetable ali = new vegetable("ali");
         vegetable karim = new vegetable("karim");
