@@ -1,4 +1,4 @@
-class SubThread extends Thread{
+class SubThread implements Runnable{
     public void run(){
         System.out.println("child thread started.");
         try{
@@ -6,6 +6,7 @@ class SubThread extends Thread{
         }catch (InterruptedException e){
             e.printStackTrace();
         }
+
         System.out.println("Thread did its task");
     }
 }
@@ -13,16 +14,20 @@ class SubThread extends Thread{
 public class ThreadLifeCycle {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Main thread start and create new child thread");
-        Thread child = new SubThread();
+        Thread child = new Thread(new SubThread());
+        System.out.println(child.getState());
 
         System.out.println("Main thread start child thread");
         child.start();
+        System.out.println(child.getState());
 
         System.out.println("Main thread continue to its task");
         Thread.sleep(500);
+        System.out.println(child.getState());
 
         System.out.println("Main thread wait for child thread");
         child.join();
+        System.out.println(child.getState());
 
         System.out.println("Main and child thread are both done");
     }
